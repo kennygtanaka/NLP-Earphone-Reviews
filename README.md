@@ -21,12 +21,12 @@ Amazon Earphones Reviews - https://www.kaggle.com/shitalkat/amazonearphonesrevie
 The data is comprised of reviews on 11 different earphones and has a total of 14,337 reviews.
 
 This project aims to achieve two main goals:
-1. Understand which earphones receive positive and negative reviews through EDA and sentiment analysis.
+1. Understand which earphones received positive and negative reviews through EDA and sentiment analysis.
 2. Create a model that predicts star ratings using VADER compound sentiment values and other variables as input.
 
 # EDA (Exploratory Data Analysis)
 
-First, the count of star reviews for each start was analyzed.
+First, the count of star reviews for each star rating was analyzed.
 
 ![alt text](/images/image_1.png?raw=true)
 
