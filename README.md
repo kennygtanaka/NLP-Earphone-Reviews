@@ -26,7 +26,7 @@ This project aims to achieve two main goals:
 
 # EDA (Exploratory Data Analysis)
 
-After simple data organization and renaming the columns, this is what a sample of the data looks like: 
+After simple data organization and renaming columns, this is what a sample of the data looks like: 
 
 ![alt text](/images/image_9.PNG?raw=true)
 
