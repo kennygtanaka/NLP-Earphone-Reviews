@@ -63,7 +63,7 @@ As expected, five star ratings have the highest average score of positive text s
 
 Each of the VADER compound values were labelled as either negative or positive depending on if they were above or below the value of zero. The original one to five star ratings were also put into positive (four and five star) or negative (one to three star) categories. They were then compared and an accuracy of 0.83 or 83% was achieved. This means that the text from the reviews can predict whether a product had a negative or positive review correctly 83% of the time. This was the classification report that also portrays the other classification metrics:
 
-![alt text](/images/image_6.png?raw=true)
+![alt text](/images/image_6.PNG?raw=true)
 
 # Prediction of Star Rating using Random Forest Classifier
 
@@ -71,11 +71,11 @@ For the final part of the project, a Random Forest Classifier was used to predic
 
 To get started, the earphone names were turned to hash identification numbers to be accepted as input for the classifier. This dictionary shows the earphones and their assigned hash numbers:
 
-![alt text](/images/image_7.png?raw=true)
+![alt text](/images/image_7.PNG?raw=true)
 
 With all the training variables in numeric form, the data was ready to perform classification. The hash number for the product, sentiment values (negative, neutral, positive, compound) and text length. All the sentiment values were added since there isn't a major concern of multicollinearity with a Random Forest Classifier. The initial model with no hyperparameter optimization had an accuracy score of 0.51. The model's were then tuned with multiple iterations of cross validation hyperparameter optimization. Best parameters for the model are shown below:
 
-![alt text](/images/image_8.png?raw=true)
+![alt text](/images/image_8.PNG?raw=true)
 
 The final model had an accuracy of 0.55. Star ratings of earphones can be predicted correctly from text sentiment about 55% of time. Considering that there are five different star ratings this accuracy is not the worst.
 
