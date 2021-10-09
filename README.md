@@ -77,7 +77,7 @@ With all the training variables in numeric form, the data was ready to perform c
 
 ![alt text](/images/image_8.PNG?raw=true)
 
-The final model had an accuracy of 0.55. Star ratings of earphones can be predicted correctly from text sentiment about 55% of time. Considering that there are five different star ratings this accuracy is not the worst.
+The final model had an accuracy of 0.55. Star ratings of earphones can be predicted correctly from text sentiment about 55% of the time. Considering that there are five different star ratings this accuracy is not the worst.
 
 # Moving Forward
 
