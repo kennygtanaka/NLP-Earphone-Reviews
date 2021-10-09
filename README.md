@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) on Earphone Reviews
+# Sentiment Analysis On Earphone Reviews
 
 Personal project analyzing text reviews for earphones on Amazon.
 
