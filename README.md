@@ -1,4 +1,4 @@
-# Sentiment Analysis On Earphone Reviews
+# Sentiment Analysis on Earphone Reviews
 
 Personal project analyzing text reviews for earphones on Amazon.
 
