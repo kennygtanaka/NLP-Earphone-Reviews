@@ -26,6 +26,19 @@ This project aims to achieve two main goals:
 
 # EDA (Exploratory Data Analysis)
 
+After simple data organization and renaming the columns, this is what a sample of the data looks like: 
+
+![alt text](/images/image_9.PNG?raw=true)
+
+Variable Explanations: 
+* title - Heading of the review 
+* body - Main text of the review 
+* stars - Star rating of the review out of five 
+* earphone - Earphone names 
+* description - body and title columns combined 
+* text_length - Character count of the review 
+
+After organizing the data, a few visualizations were made to understand the data on a basic level. 
 First, the count of star reviews for each star rating was analyzed.
 
 ![alt text](/images/image_1.png?raw=true)
