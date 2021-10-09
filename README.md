@@ -79,7 +79,7 @@ Each of the VADER compound values were labelled as either negative or positive d
 
 ![alt text](/images/image_6.PNG?raw=true)
 
-# Prediction of Star Rating using Random Forest Classifier
+# Prediction of Star Rating Using Random Forest Classifier
 
 For the final part of the project, a Random Forest Classifier was used to predict star ratings of earphone reviews. A classifier was used instead of a regressor since they generally tend to perform better on a low number of categories.
 
