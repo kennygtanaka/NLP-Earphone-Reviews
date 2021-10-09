@@ -55,6 +55,7 @@ It can be seen here that the Flybot Boom had a large amount of three star rating
 After the exploratory data analysis, sentiment analysis of the reviews (title and body) was run using the NLTK and Vader libraries. Negative, neutral and positive ratings were given to each review depending on the sentiment of all the words. The VADER library also outputs a compound sentiment value which is the combined total of the negative, neutral and positive ratings of the words in each review. A value between -1 (negative sentiment) and 1 (positive sentiment) was given to each of the reviews.
 
 The following visualization shows the average negative, neutral and positive scores for each star rating:
+
 ![alt text](/images/image_5.png?raw=true)
 
 As expected, five star ratings have the highest average score of positive text sentiment and one star ratings have the highest negative rating. According to the sentiment data, it seems that positive reviews are much happier about their products than negative reviewers are angry/sad about their products. One unexpected observation with the neutral ratings is that there was a higher average for one star ratings than four star ratings. This may be due to the fact that a larger fraction of words were used for positive remarks.
