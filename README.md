@@ -61,7 +61,7 @@ Lastly, the earphones were compared utilizing a heatmap to see if there were any
 
 ![alt text](/images/image_4.png?raw=true)
 
-It can be seen here that the Flybot Boom had a large amount of three star ratings. Since it had the highest rating in the previous bar chart shown, customers seem to either really enjoy the Flybot Boom or find it mediocre.
+It can be seen here that the Flybot Boom had a large amount of three star ratings. Since it had one of the highest rating in the previous bar chart shown, customers seem to either really enjoy the Flybot Boom or find it mediocre.
 
 # Sentiment Analysis
 
